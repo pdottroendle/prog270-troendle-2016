@@ -12,3 +12,5 @@ Here is where I am putting some of my files from the prog270 winter 2016 class
 Don't ever do a commit without a -m it opens an editor and you wont be happy if you are in it.
 
 ## Success I pulled my changes down into qux
+## Recheck I add into qux this line now, lets see if I can get it distributed to the repository instances and hierarchical master (www.github.com)
+
