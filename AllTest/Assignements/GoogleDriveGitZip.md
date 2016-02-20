@@ -23,7 +23,7 @@ screenshot showing the deflating to a zip
 
 here bekow a quarter of the size using CSS its done in HTML and CSS
 note the CSS is in the HTML in the style tag section hope that is ok
-<link rel="stylesheet" href="style.css">
-<img class="twenty-five-percent"  src="deflating.jpg" alt="deflate">
+
+<img class="twenty-five-percent"  src="../images/deflating.jpg" alt="deflate">
 
 
