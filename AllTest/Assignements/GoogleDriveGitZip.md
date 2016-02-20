@@ -1,29 +1,25 @@
-Exercise
-========
 
-This is a :
+## Peter -Paul Troendle 
+
+# This is a :
 
 - lamp
 - ec2/aws
 - zip
 - git
-
-exercise
+- markdown
 
 as example, here more on the zip aspect
-----------------------------------------
+The Zipping and Unzipping in the Linux File System
 
-# The Zipping and Unzipping in the Linux File System
+## screenshot showing the inflating from a zip
+<iframe src="../images/inflating.jpg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-screenshot showing the inflating from a zip
-## ![Title](../images/inflating.jpg)
+## screenshot showing the deflating from a zip
+<iframe src="../images/deflating.jpg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-screenshot showing the deflating to a zip
-## ![Title](../images/deflating.jpg)
+## screenshot showing 25% of deflating from a zip
+<iframe src="../images/deflating.jpg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-here bekow a quarter of the size using CSS its done in HTML and CSS
-note the CSS is in the HTML in the style tag section hope that is ok
-
-<img class="twenty-five-percent"  src="../images/deflating.jpg" alt="deflate">
-
-
+## screenshot showing 25% of deflating from a zip inline
+<iframe src="../images/deflating.jpg" width="600" height="450" frameborder="0" style="width: 25%" allowfullscreen></iframe>
