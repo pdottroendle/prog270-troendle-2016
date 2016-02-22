@@ -34,7 +34,7 @@ Here is a screenshot showing the inflating from a zip using the Markdown from Ca
 Here the CSS version:
 
 ```css
-img.twenty-five-percents {
+img.twenty-five-percent {
    width: 25%;
 }
 ```
@@ -44,6 +44,7 @@ This code says that if there is a class of an image tag named **twenty-five-perc
 And here is code for using this CSS class:
 
 ```html
-<img class="twenty-five-percents" src="../images/inflating.jpg" alt="inflating">
+<img class="twenty-five-percent" src="../images/inflating.jpg" alt="inflating">
 ```
-
+this is:
+<img class="twenty-five-percent" src="../images/inflating.jpg" alt="inflating">
