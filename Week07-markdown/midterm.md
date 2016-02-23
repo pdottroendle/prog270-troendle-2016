@@ -5,7 +5,7 @@
 Here the reasons why:
 - [One](one/one.html)
 everyone should be able to do so that way the internet will always have copies
-and the contents might not leak that easily then if the sleazy sales people
+and the contents might not leak that easily then if unconscious sales people
 that do not get the subscription fee they simply delete because they do not
 understand the value.
 
