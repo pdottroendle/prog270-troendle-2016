@@ -1,8 +1,2 @@
 * [Summary.html](Summary.html)
-* [Summary.html](Summary.html)
-* [Summary.html](Summary.html)
-* [Summary.html](Summary.html)
-* [Summary.html](Summary.html)
-* [Summary.html](Summary.html)
-* [Assignements/Summary.html](Assignements/Summary.html)
 * [Assignements/Summary.html](Assignements/Summary.html)
