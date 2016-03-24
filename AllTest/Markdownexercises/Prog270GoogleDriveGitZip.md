@@ -1,6 +1,4 @@
 
-# Peter -Paul Troendle 
-
 ## This is an Excercise for Pictures:
 
 - lamp
