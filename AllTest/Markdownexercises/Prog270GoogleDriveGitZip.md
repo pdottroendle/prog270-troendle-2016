@@ -1,5 +1,5 @@
 # scripts kept in zip (Google drive)
-[Scripts](GoogleDriveGitZip.zip)
+[Scripts - on Google drive](https://drive.google.com/open?id=0B_wOxHYMlx1xNE9SR1FMdzNWVlU)
 
 
 ## This is an Excercise for Pictures:
